@@ -1,0 +1,569 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ROOT>
+<UsedStock>
+<Vehicle id="8759330">
+  <DealerName>_ix_Cameron Ganesh</DealerName>
+  <PowerFeed>no</PowerFeed>
+  <DealerCode>13273</DealerCode>
+  <GPS><![CDATA[-29.837100; 30.914660]]></GPS>
+  <Address><![CDATA[8 Church Place, Westville]]></Address>
+  <Region>KwaZulu-Natal</Region>
+  <City>Durban</City>
+  <DateOfDump>01 Dec 2025</DateOfDump>
+  <FriendlyName>BMW 428i Gran Coupe M Sport</FriendlyName>
+  <ModelName>4 Series</ModelName>
+  <MakeName>BMW</MakeName>
+  <ModelID>2334</ModelID>
+  <MakeID>7</MakeID>
+  <MolNumber>89</MolNumber>
+  <StockCode>8C3A3D</StockCode>
+  <Comments><![CDATA[A well-looked-after car with low mileage and full service history.]]></Comments>
+  <Extras><![CDATA[Sport Seats, Alloy Wheels, Bluetooth, Cruise Control]]></Extras>
+  <DateInStock>01 Dec 2025</DateInStock>
+  <CostPrice>0</CostPrice>
+  <StandinPrice>0</StandinPrice>
+  <Registration>PVH 627 FS</Registration>
+  <Price>1397450</Price>
+  <WasPrice>0</WasPrice>
+  <MMCode>05048260</MMCode>
+  <Colour>Light Driftwood Satin Glow</Colour>
+  <Type>Cars</Type>
+  <Year>2004</Year>
+  <Mileage>185679</Mileage>
+  <VIN>AHTDWB978666I814453</VIN>
+  <FullServiceHistory>Yes</FullServiceHistory>
+  <Transmission>Manual</Transmission>
+  <BodyShape>Fastback</BodyShape>
+  <FuelType>petrol</FuelType>
+  <Department></Department>
+  <Rank>-1</Rank>
+  <UsedVehicleStockID>8759330</UsedVehicleStockID>
+  <SearchColour></SearchColour>
+  <Images>
+    <Image Id="8759330_1" ThumbUrl="https://image.blob.ix.co.za/Used/8759330/1/2004-LightDriftwoodSatinGlow-BMW-4-Series-428i-Gran-Coupe-M-Sport-8759330-1-120x80.jpg" FullUrl="https://image.blob.ix.co.za/Used/8759330/1/2004-LightDriftwoodSatinGlow-BMW-4-Series-428i-Gran-Coupe-M-Sport-8759330-1-640x427.jpg" LastModified="2025/12/01 10:46:36 AM" Priority="1" />
+    <Image Id="8759330_2" ThumbUrl="https://image.blob.ix.co.za/Used/8759330/2/2004-LightDriftwoodSatinGlow-BMW-4-Series-428i-Gran-Coupe-M-Sport-8759330-2-120x79.jpg" FullUrl="https://image.blob.ix.co.za/Used/8759330/2/2004-LightDriftwoodSatinGlow-BMW-4-Series-428i-Gran-Coupe-M-Sport-8759330-2-640x424.jpg" LastModified="2025/12/01 10:46:49 AM" Priority="2" />
+    <Image Id="8759330_3" ThumbUrl="https://image.blob.ix.co.za/Used/8759330/3/2004-LightDriftwoodSatinGlow-BMW-4-Series-428i-Gran-Coupe-M-Sport-8759330-3-120x80.jpg" FullUrl="https://image.blob.ix.co.za/Used/8759330/3/2004-LightDriftwoodSatinGlow-BMW-4-Series-428i-Gran-Coupe-M-Sport-8759330-3-640x427.jpg" LastModified="2025/12/01 10:46:50 AM" Priority="3" />
+    <Image Id="8759330_4" ThumbUrl="https://image.blob.ix.co.za/Used/8759330/4/2004-LightDriftwoodSatinGlow-BMW-4-Series-428i-Gran-Coupe-M-Sport-8759330-4-120x80.jpg" FullUrl="https://image.blob.ix.co.za/Used/8759330/4/2004-LightDriftwoodSatinGlow-BMW-4-Series-428i-Gran-Coupe-M-Sport-8759330-4-640x427.jpg" LastModified="2025/12/01 10:46:51 AM" Priority="4" />
+    <Image Id="8759330_5" ThumbUrl="https://image.blob.ix.co.za/Used/8759330/5/2004-LightDriftwoodSatinGlow-BMW-4-Series-428i-Gran-Coupe-M-Sport-8759330-5-120x80.jpg" FullUrl="https://image.blob.ix.co.za/Used/8759330/5/2004-LightDriftwoodSatinGlow-BMW-4-Series-428i-Gran-Coupe-M-Sport-8759330-5-640x427.jpg" LastModified="2025/12/01 10:46:51 AM" Priority="5" />
+  </Images>
+  <SpinCode></SpinCode>
+  <SpinVideoLink></SpinVideoLink>
+  <LoadDate>01 Dec 2025</LoadDate>
+  <IsPOA>No</IsPOA>
+  <IsProgram>No</IsProgram>
+  <ProgramName></ProgramName>
+</Vehicle>
+<Vehicle id="8759328">
+  <DealerName>_ix_Cameron Ganesh</DealerName>
+  <PowerFeed>no</PowerFeed>
+  <DealerCode>13273</DealerCode>
+  <GPS><![CDATA[-29.837100; 30.914660]]></GPS>
+  <Address><![CDATA[8 Church Place, Westville]]></Address>
+  <Region>KwaZulu-Natal</Region>
+  <City>Durban</City>
+  <DateOfDump>01 Dec 2025</DateOfDump>
+  <FriendlyName>GWM ORA 300 Super Luxury</FriendlyName>
+  <ModelName>ORA</ModelName>
+  <MakeName>GWM</MakeName>
+  <ModelID>3212</ModelID>
+  <MakeID>101</MakeID>
+  <MolNumber>89</MolNumber>
+  <StockCode>764931</StockCode>
+  <Comments><![CDATA[Stylish sedan, fuel-efficient, and mechanically sound.]]></Comments>
+  <Extras><![CDATA[Air Conditioning, Power Steering, Central Locking, Alloy Wheels]]></Extras>
+  <DateInStock>01 Dec 2025</DateInStock>
+  <CostPrice>0</CostPrice>
+  <StandinPrice>0</StandinPrice>
+  <Registration>XKU 860 GP</Registration>
+  <Price>1471921</Price>
+  <WasPrice>0</WasPrice>
+  <MMCode>23525150</MMCode>
+  <Colour>Dark Beige</Colour>
+  <Type>Cars</Type>
+  <Year>2010</Year>
+  <Mileage>434407</Mileage>
+  <VIN>AFSEJP79475XU714005</VIN>
+  <FullServiceHistory>Yes</FullServiceHistory>
+  <Transmission>Automatic</Transmission>
+  <BodyShape>SUV</BodyShape>
+  <FuelType>Electric</FuelType>
+  <Department></Department>
+  <Rank>-1</Rank>
+  <UsedVehicleStockID>8759328</UsedVehicleStockID>
+  <SearchColour>beige</SearchColour>
+  <Images>
+    <Image Id="8759328_1" ThumbUrl="https://image.blob.ix.co.za/Used/8759328/1/2010-DarkBeige-GWM-ORA-300-Super-Luxury-8759328-1-120x82.jpg" FullUrl="https://image.blob.ix.co.za/Used/8759328/1/2010-DarkBeige-GWM-ORA-300-Super-Luxury-8759328-1-640x440.jpg" LastModified="2025/12/01 10:46:35 AM" Priority="1" />
+    <Image Id="8759328_2" ThumbUrl="https://image.blob.ix.co.za/Used/8759328/2/2010-DarkBeige-GWM-ORA-300-Super-Luxury-8759328-2-120x80.jpg" FullUrl="https://image.blob.ix.co.za/Used/8759328/2/2010-DarkBeige-GWM-ORA-300-Super-Luxury-8759328-2-640x427.jpg" LastModified="2025/12/01 10:46:49 AM" Priority="2" />
+    <Image Id="8759328_3" ThumbUrl="https://image.blob.ix.co.za/Used/8759328/3/2010-DarkBeige-GWM-ORA-300-Super-Luxury-8759328-3-120x80.jpg" FullUrl="https://image.blob.ix.co.za/Used/8759328/3/2010-DarkBeige-GWM-ORA-300-Super-Luxury-8759328-3-640x427.jpg" LastModified="2025/12/01 10:46:50 AM" Priority="3" />
+    <Image Id="8759328_4" ThumbUrl="https://image.blob.ix.co.za/Used/8759328/4/2010-DarkBeige-GWM-ORA-300-Super-Luxury-8759328-4-120x80.jpg" FullUrl="https://image.blob.ix.co.za/Used/8759328/4/2010-DarkBeige-GWM-ORA-300-Super-Luxury-8759328-4-640x427.jpg" LastModified="2025/12/01 10:46:51 AM" Priority="4" />
+    <Image Id="8759328_5" ThumbUrl="https://image.blob.ix.co.za/Used/8759328/5/2010-DarkBeige-GWM-ORA-300-Super-Luxury-8759328-5-120x80.jpg" FullUrl="https://image.blob.ix.co.za/Used/8759328/5/2010-DarkBeige-GWM-ORA-300-Super-Luxury-8759328-5-640x429.jpg" LastModified="2025/12/01 10:46:51 AM" Priority="5" />
+  </Images>
+  <SpinCode></SpinCode>
+  <SpinVideoLink></SpinVideoLink>
+  <LoadDate>01 Dec 2025</LoadDate>
+  <IsPOA>No</IsPOA>
+  <IsProgram>Yes</IsProgram>
+  <ProgramName></ProgramName>
+</Vehicle>
+<Vehicle id="8759327">
+  <DealerName>_ix_Cameron Ganesh</DealerName>
+  <PowerFeed>no</PowerFeed>
+  <DealerCode>13273</DealerCode>
+  <GPS><![CDATA[-29.837100; 30.914660]]></GPS>
+  <Address><![CDATA[8 Church Place, Westville]]></Address>
+  <Region>KwaZulu-Natal</Region>
+  <City>Durban</City>
+  <DateOfDump>01 Dec 2025</DateOfDump>
+  <FriendlyName>Lamborghini Huracan Evo Spyder (AWD)</FriendlyName>
+  <ModelName>Huracan</ModelName>
+  <MakeName>Lamborghini</MakeName>
+  <ModelID>2396</ModelID>
+  <MakeID>18</MakeID>
+  <MolNumber>89</MolNumber>
+  <StockCode>F871E4</StockCode>
+  <Comments><![CDATA[Spacious SUV with excellent handling and comfort features.]]></Comments>
+  <Extras><![CDATA[Alloy Wheels, Sport Seats, Cruise Control, Bluetooth]]></Extras>
+  <DateInStock>01 Dec 2025</DateInStock>
+  <CostPrice>0</CostPrice>
+  <StandinPrice>0</StandinPrice>
+  <Registration>VII 515 EC</Registration>
+  <Price>627729</Price>
+  <WasPrice>0</WasPrice>
+  <MMCode>33332140</MMCode>
+  <Colour>Med. Prairie Tan</Colour>
+  <Type>Cars</Type>
+  <Year>1996</Year>
+  <Mileage>470739</Mileage>
+  <VIN>AAVMGH72171WC455877</VIN>
+  <FullServiceHistory>Yes</FullServiceHistory>
+  <Transmission>Automatic</Transmission>
+  <BodyShape>Cabriolet</BodyShape>
+  <FuelType></FuelType>
+  <Department></Department>
+  <Rank>-1</Rank>
+  <UsedVehicleStockID>8759327</UsedVehicleStockID>
+  <SearchColour></SearchColour>
+  <Images>
+    <Image Id="8759327_1" ThumbUrl="https://image.blob.ix.co.za/Used/8759327/1/1996-MedPrairieTan-Lamborghini-Huracan-Evo-Spyder-AWD-8759327-1-120x86.jpg" FullUrl="https://image.blob.ix.co.za/Used/8759327/1/1996-MedPrairieTan-Lamborghini-Huracan-Evo-Spyder-AWD-8759327-1-640x462.jpg" LastModified="2025/12/01 10:46:35 AM" Priority="1" />
+    <Image Id="8759327_2" ThumbUrl="https://image.blob.ix.co.za/Used/8759327/2/1996-MedPrairieTan-Lamborghini-Huracan-Evo-Spyder-AWD-8759327-2-120x90.jpg" FullUrl="https://image.blob.ix.co.za/Used/8759327/2/1996-MedPrairieTan-Lamborghini-Huracan-Evo-Spyder-AWD-8759327-2-640x480.jpg" LastModified="2025/12/01 10:46:49 AM" Priority="2" />
+    <Image Id="8759327_3" ThumbUrl="https://image.blob.ix.co.za/Used/8759327/3/1996-MedPrairieTan-Lamborghini-Huracan-Evo-Spyder-AWD-8759327-3-120x97.jpg" FullUrl="https://image.blob.ix.co.za/Used/8759327/3/1996-MedPrairieTan-Lamborghini-Huracan-Evo-Spyder-AWD-8759327-3-640x518.jpg" LastModified="2025/12/01 10:46:50 AM" Priority="3" />
+    <Image Id="8759327_4" ThumbUrl="https://image.blob.ix.co.za/Used/8759327/4/1996-MedPrairieTan-Lamborghini-Huracan-Evo-Spyder-AWD-8759327-4-120x79.jpg" FullUrl="https://image.blob.ix.co.za/Used/8759327/4/1996-MedPrairieTan-Lamborghini-Huracan-Evo-Spyder-AWD-8759327-4-640x425.jpg" LastModified="2025/12/01 10:46:51 AM" Priority="4" />
+    <Image Id="8759327_5" ThumbUrl="https://image.blob.ix.co.za/Used/8759327/5/1996-MedPrairieTan-Lamborghini-Huracan-Evo-Spyder-AWD-8759327-5-120x80.jpg" FullUrl="https://image.blob.ix.co.za/Used/8759327/5/1996-MedPrairieTan-Lamborghini-Huracan-Evo-Spyder-AWD-8759327-5-640x427.jpg" LastModified="2025/12/01 10:46:51 AM" Priority="5" />
+  </Images>
+  <SpinCode></SpinCode>
+  <SpinVideoLink></SpinVideoLink>
+  <LoadDate>01 Dec 2025</LoadDate>
+  <IsPOA>No</IsPOA>
+  <IsProgram>No</IsProgram>
+  <ProgramName></ProgramName>
+</Vehicle>
+<Vehicle id="8759325">
+  <DealerName>_ix_Cameron Ganesh</DealerName>
+  <PowerFeed>no</PowerFeed>
+  <DealerCode>13273</DealerCode>
+  <GPS><![CDATA[-29.837100; 30.914660]]></GPS>
+  <Address><![CDATA[8 Church Place, Westville]]></Address>
+  <Region>KwaZulu-Natal</Region>
+  <City>Durban</City>
+  <DateOfDump>01 Dec 2025</DateOfDump>
+  <FriendlyName>NISSAN QASHQAI 1.2T ACENTA CVT</FriendlyName>
+  <ModelName>Qashqai</ModelName>
+  <MakeName>Nissan</MakeName>
+  <ModelID>786</ModelID>
+  <MakeID>24</MakeID>
+  <MolNumber>89</MolNumber>
+  <StockCode>FB12FC</StockCode>
+  <Comments><![CDATA[Great first car, easy to drive, fuel-efficient and reliable.]]></Comments>
+  <Extras><![CDATA[Air Conditioning, Alloy Wheels, Reverse Camera, Climate Control]]></Extras>
+  <DateInStock>01 Dec 2025</DateInStock>
+  <CostPrice>0</CostPrice>
+  <StandinPrice>0</StandinPrice>
+  <Registration>IUR 706 WC</Registration>
+  <Price>651218</Price>
+  <WasPrice>0</WasPrice>
+  <MMCode>47060025</MMCode>
+  <Colour>Dk Toreador Red</Colour>
+  <Type>Cars</Type>
+  <Year>2007</Year>
+  <Mileage>246975</Mileage>
+  <VIN>AAVQWD372052M476186</VIN>
+  <FullServiceHistory>Yes</FullServiceHistory>
+  <Transmission>Automatic</Transmission>
+  <BodyShape>SUV</BodyShape>
+  <FuelType>petrol</FuelType>
+  <Department></Department>
+  <Rank>-1</Rank>
+  <UsedVehicleStockID>8759325</UsedVehicleStockID>
+  <SearchColour>red</SearchColour>
+  <Images>
+    <Image Id="8759325_1" ThumbUrl="https://image.blob.ix.co.za/Used/8759325/1/2007-DkToreadorRed-Nissan-Qashqai-QASHQAI-12T-ACENTA-CVT-8759325-1-120x78.jpg" FullUrl="https://image.blob.ix.co.za/Used/8759325/1/2007-DkToreadorRed-Nissan-Qashqai-QASHQAI-12T-ACENTA-CVT-8759325-1-640x421.jpg" LastModified="2025/12/01 10:46:34 AM" Priority="1" />
+    <Image Id="8759325_2" ThumbUrl="https://image.blob.ix.co.za/Used/8759325/2/2007-DkToreadorRed-Nissan-Qashqai-QASHQAI-12T-ACENTA-CVT-8759325-2-120x80.jpg" FullUrl="https://image.blob.ix.co.za/Used/8759325/2/2007-DkToreadorRed-Nissan-Qashqai-QASHQAI-12T-ACENTA-CVT-8759325-2-640x427.jpg" LastModified="2025/12/01 10:46:49 AM" Priority="2" />
+    <Image Id="8759325_3" ThumbUrl="https://image.blob.ix.co.za/Used/8759325/3/2007-DkToreadorRed-Nissan-Qashqai-QASHQAI-12T-ACENTA-CVT-8759325-3-120x80.jpg" FullUrl="https://image.blob.ix.co.za/Used/8759325/3/2007-DkToreadorRed-Nissan-Qashqai-QASHQAI-12T-ACENTA-CVT-8759325-3-640x427.jpg" LastModified="2025/12/01 10:46:50 AM" Priority="3" />
+    <Image Id="8759325_4" ThumbUrl="https://image.blob.ix.co.za/Used/8759325/4/2007-DkToreadorRed-Nissan-Qashqai-QASHQAI-12T-ACENTA-CVT-8759325-4-120x75.jpg" FullUrl="https://image.blob.ix.co.za/Used/8759325/4/2007-DkToreadorRed-Nissan-Qashqai-QASHQAI-12T-ACENTA-CVT-8759325-4-640x400.jpg" LastModified="2025/12/01 10:46:50 AM" Priority="4" />
+    <Image Id="8759325_5" ThumbUrl="https://image.blob.ix.co.za/Used/8759325/5/2007-DkToreadorRed-Nissan-Qashqai-QASHQAI-12T-ACENTA-CVT-8759325-5-120x74.jpg" FullUrl="https://image.blob.ix.co.za/Used/8759325/5/2007-DkToreadorRed-Nissan-Qashqai-QASHQAI-12T-ACENTA-CVT-8759325-5-640x396.jpg" LastModified="2025/12/01 10:46:51 AM" Priority="5" />
+  </Images>
+  <SpinCode></SpinCode>
+  <SpinVideoLink></SpinVideoLink>
+  <LoadDate>01 Dec 2025</LoadDate>
+  <IsPOA>No</IsPOA>
+  <IsProgram>No</IsProgram>
+  <ProgramName></ProgramName>
+</Vehicle>
+<Vehicle id="8759333">
+  <DealerName>_ix_Cameron Ganesh</DealerName>
+  <PowerFeed>no</PowerFeed>
+  <DealerCode>13273</DealerCode>
+  <GPS><![CDATA[-29.837100; 30.914660]]></GPS>
+  <Address><![CDATA[8 Church Place, Westville]]></Address>
+  <Region>KwaZulu-Natal</Region>
+  <City>Durban</City>
+  <DateOfDump>01 Dec 2025</DateOfDump>
+  <FriendlyName>OMODA C5 1.6T GT</FriendlyName>
+  <ModelName>C5 GT</ModelName>
+  <MakeName>OMODA</MakeName>
+  <ModelID>3260</ModelID>
+  <MakeID>469</MakeID>
+  <MolNumber>89</MolNumber>
+  <StockCode>77DAA9</StockCode>
+  <Comments><![CDATA[Reliable daily driver, low mileage and neat interior.]]></Comments>
+  <Extras><![CDATA[Air Conditioning, Alloy Wheels, Bluetooth, Electric Windows]]></Extras>
+  <DateInStock>01 Dec 2025</DateInStock>
+  <CostPrice>0</CostPrice>
+  <StandinPrice>0</StandinPrice>
+  <Registration>NRG 641 LP</Registration>
+  <Price>197768</Price>
+  <WasPrice>0</WasPrice>
+  <MMCode>47804270</MMCode>
+  <Colour>Tuxedo Blue</Colour>
+  <Type>Cars</Type>
+  <Year>2001</Year>
+  <Mileage>757693</Mileage>
+  <VIN>AAVHNF19159MT606796</VIN>
+  <FullServiceHistory>Yes</FullServiceHistory>
+  <Transmission>Automatic</Transmission>
+  <BodyShape>SUV</BodyShape>
+  <FuelType></FuelType>
+  <Department></Department>
+  <Rank>-1</Rank>
+  <UsedVehicleStockID>8759333</UsedVehicleStockID>
+  <SearchColour>blue</SearchColour>
+  <Images>
+    <Image Id="8759333_1" ThumbUrl="https://image.blob.ix.co.za/Used/8759333/1/2001-TuxedoBlue-OMODA-C5-GT-16T-8759333-1-120x77.jpg" FullUrl="https://image.blob.ix.co.za/Used/8759333/1/2001-TuxedoBlue-OMODA-C5-GT-16T-8759333-1-640x414.jpg" LastModified="2025/12/01 10:46:38 AM" Priority="1" />
+    <Image Id="8759333_2" ThumbUrl="https://image.blob.ix.co.za/Used/8759333/2/2001-TuxedoBlue-OMODA-C5-GT-16T-8759333-2-120x90.jpg" FullUrl="https://image.blob.ix.co.za/Used/8759333/2/2001-TuxedoBlue-OMODA-C5-GT-16T-8759333-2-640x480.jpg" LastModified="2025/12/01 10:46:49 AM" Priority="2" />
+    <Image Id="8759333_3" ThumbUrl="https://image.blob.ix.co.za/Used/8759333/3/2001-TuxedoBlue-OMODA-C5-GT-16T-8759333-3-120x80.jpg" FullUrl="https://image.blob.ix.co.za/Used/8759333/3/2001-TuxedoBlue-OMODA-C5-GT-16T-8759333-3-640x427.jpg" LastModified="2025/12/01 10:46:50 AM" Priority="3" />
+    <Image Id="8759333_4" ThumbUrl="https://image.blob.ix.co.za/Used/8759333/4/2001-TuxedoBlue-OMODA-C5-GT-16T-8759333-4-120x79.jpg" FullUrl="https://image.blob.ix.co.za/Used/8759333/4/2001-TuxedoBlue-OMODA-C5-GT-16T-8759333-4-640x422.jpg" LastModified="2025/12/01 10:46:51 AM" Priority="4" />
+    <Image Id="8759333_5" ThumbUrl="https://image.blob.ix.co.za/Used/8759333/5/2001-TuxedoBlue-OMODA-C5-GT-16T-8759333-5-120x80.jpg" FullUrl="https://image.blob.ix.co.za/Used/8759333/5/2001-TuxedoBlue-OMODA-C5-GT-16T-8759333-5-640x427.jpg" LastModified="2025/12/01 10:46:51 AM" Priority="5" />
+  </Images>
+  <SpinCode></SpinCode>
+  <SpinVideoLink></SpinVideoLink>
+  <LoadDate>01 Dec 2025</LoadDate>
+  <IsPOA>No</IsPOA>
+  <IsProgram>Yes</IsProgram>
+  <ProgramName></ProgramName>
+</Vehicle>
+<Vehicle id="8461337">
+  <DealerName>_ix_Cameron Ganesh</DealerName>
+  <PowerFeed>no</PowerFeed>
+  <DealerCode>13273</DealerCode>
+  <GPS><![CDATA[-29.837100; 30.914660]]></GPS>
+  <Address><![CDATA[8 Church Place, Westville]]></Address>
+  <Region>KwaZulu-Natal</Region>
+  <City>Durban</City>
+  <DateOfDump>01 Jan 1900</DateOfDump>
+  <FriendlyName>Opel Corsa 1.4 Sport</FriendlyName>
+  <ModelName>Corsa</ModelName>
+  <MakeName>Opel</MakeName>
+  <ModelID>342</ModelID>
+  <MakeID>3</MakeID>
+  <MolNumber>89</MolNumber>
+  <StockCode>camopeltest</StockCode>
+  <Comments><![CDATA[]]></Comments>
+  <Extras><![CDATA[]]></Extras>
+  <DateInStock>14 Apr 2025</DateInStock>
+  <CostPrice>0</CostPrice>
+  <StandinPrice>0</StandinPrice>
+  <Registration></Registration>
+  <Price>159000</Price>
+  <WasPrice>0</WasPrice>
+  <MMCode>48010090</MMCode>
+  <Colour>Green</Colour>
+  <Type>Cars</Type>
+  <Year>2006</Year>
+  <Mileage>186000</Mileage>
+  <VIN>ADMXF68JE64325566</VIN>
+  <FullServiceHistory>No</FullServiceHistory>
+  <Transmission>Manual</Transmission>
+  <BodyShape>Hatch</BodyShape>
+  <FuelType>Petrol</FuelType>
+  <Department></Department>
+  <Rank>-1</Rank>
+  <UsedVehicleStockID>8461337</UsedVehicleStockID>
+  <SearchColour>green</SearchColour>
+  <Images>
+    <Image Id="8461337_1" ThumbUrl="https://image.blob.ix.co.za/Used/8461337/1/2006-Green-Opel-Corsa-14-Sport-8461337-1-600x400.jpg" FullUrl="https://image.blob.ix.co.za/Used/8461337/1/2006-Green-Opel-Corsa-14-Sport-8461337-1-600x400.jpg" LastModified="2025/06/19 11:15:04 AM" Priority="1" />
+  </Images>
+  <SpinCode></SpinCode>
+  <SpinVideoLink></SpinVideoLink>
+  <LoadDate>14 Apr 2025</LoadDate>
+  <IsPOA>No</IsPOA>
+  <IsProgram>No</IsProgram>
+  <ProgramName></ProgramName>
+</Vehicle>
+<Vehicle id="8759334">
+  <DealerName>_ix_Cameron Ganesh</DealerName>
+  <PowerFeed>no</PowerFeed>
+  <DealerCode>13273</DealerCode>
+  <GPS><![CDATA[-29.837100; 30.914660]]></GPS>
+  <Address><![CDATA[8 Church Place, Westville]]></Address>
+  <Region>KwaZulu-Natal</Region>
+  <City>Durban</City>
+  <DateOfDump>01 Dec 2025</DateOfDump>
+  <FriendlyName>Porsche Cayenne Turbo S E-Hybrid</FriendlyName>
+  <ModelName>Cayenne</ModelName>
+  <MakeName>Porsche</MakeName>
+  <ModelID>373</ModelID>
+  <MakeID>26</MakeID>
+  <MolNumber>89</MolNumber>
+  <StockCode>AF4F46</StockCode>
+  <Comments><![CDATA[Perfectly maintained and ideal for long drives or city commuting.]]></Comments>
+  <Extras><![CDATA[Air Conditioning, Cruise Control, Reverse Camera, Bluetooth, Alloy Wheels, USB Port]]></Extras>
+  <DateInStock>01 Dec 2025</DateInStock>
+  <CostPrice>0</CostPrice>
+  <StandinPrice>0</StandinPrice>
+  <Registration>HFW 480 LP</Registration>
+  <Price>1414235</Price>
+  <WasPrice>0</WasPrice>
+  <MMCode>50580420</MMCode>
+  <Colour>Medium Beige</Colour>
+  <Type>Cars</Type>
+  <Year>2010</Year>
+  <Mileage>186065</Mileage>
+  <VIN>AAVSXT48660NP205447</VIN>
+  <FullServiceHistory>No</FullServiceHistory>
+  <Transmission>Automatic</Transmission>
+  <BodyShape>SUV</BodyShape>
+  <FuelType>Hybrid</FuelType>
+  <Department></Department>
+  <Rank>-1</Rank>
+  <UsedVehicleStockID>8759334</UsedVehicleStockID>
+  <SearchColour>beige</SearchColour>
+  <Images>
+    <Image Id="8759334_1" ThumbUrl="https://image.blob.ix.co.za/Used/8759334/1/2010-MediumBeige-Porsche-Cayenne-Turbo-S-E-Hybrid-8759334-1-120x78.jpg" FullUrl="https://image.blob.ix.co.za/Used/8759334/1/2010-MediumBeige-Porsche-Cayenne-Turbo-S-E-Hybrid-8759334-1-640x421.jpg" LastModified="2025/12/01 10:46:38 AM" Priority="1" />
+    <Image Id="8759334_2" ThumbUrl="https://image.blob.ix.co.za/Used/8759334/2/2010-MediumBeige-Porsche-Cayenne-Turbo-S-E-Hybrid-8759334-2-120x84.jpg" FullUrl="https://image.blob.ix.co.za/Used/8759334/2/2010-MediumBeige-Porsche-Cayenne-Turbo-S-E-Hybrid-8759334-2-640x450.jpg" LastModified="2025/12/01 10:46:49 AM" Priority="2" />
+    <Image Id="8759334_3" ThumbUrl="https://image.blob.ix.co.za/Used/8759334/3/2010-MediumBeige-Porsche-Cayenne-Turbo-S-E-Hybrid-8759334-3-120x80.jpg" FullUrl="https://image.blob.ix.co.za/Used/8759334/3/2010-MediumBeige-Porsche-Cayenne-Turbo-S-E-Hybrid-8759334-3-640x427.jpg" LastModified="2025/12/01 10:46:50 AM" Priority="3" />
+    <Image Id="8759334_4" ThumbUrl="https://image.blob.ix.co.za/Used/8759334/4/2010-MediumBeige-Porsche-Cayenne-Turbo-S-E-Hybrid-8759334-4-120x79.jpg" FullUrl="https://image.blob.ix.co.za/Used/8759334/4/2010-MediumBeige-Porsche-Cayenne-Turbo-S-E-Hybrid-8759334-4-640x425.jpg" LastModified="2025/12/01 10:46:51 AM" Priority="4" />
+    <Image Id="8759334_5" ThumbUrl="https://image.blob.ix.co.za/Used/8759334/5/2010-MediumBeige-Porsche-Cayenne-Turbo-S-E-Hybrid-8759334-5-120x80.jpg" FullUrl="https://image.blob.ix.co.za/Used/8759334/5/2010-MediumBeige-Porsche-Cayenne-Turbo-S-E-Hybrid-8759334-5-640x427.jpg" LastModified="2025/12/01 10:46:51 AM" Priority="5" />
+  </Images>
+  <SpinCode></SpinCode>
+  <SpinVideoLink></SpinVideoLink>
+  <LoadDate>01 Dec 2025</LoadDate>
+  <IsPOA>No</IsPOA>
+  <IsProgram>Yes</IsProgram>
+  <ProgramName></ProgramName>
+</Vehicle>
+<Vehicle id="8759326">
+  <DealerName>_ix_Cameron Ganesh</DealerName>
+  <PowerFeed>no</PowerFeed>
+  <DealerCode>13273</DealerCode>
+  <GPS><![CDATA[-29.837100; 30.914660]]></GPS>
+  <Address><![CDATA[8 Church Place, Westville]]></Address>
+  <Region>KwaZulu-Natal</Region>
+  <City>Durban</City>
+  <DateOfDump>01 Dec 2025</DateOfDump>
+  <FriendlyName>PUZEY KTR KTR MX 250</FriendlyName>
+  <ModelName>KTR</ModelName>
+  <MakeName>Puzey</MakeName>
+  <ModelID>1066</ModelID>
+  <MakeID>142</MakeID>
+  <MolNumber>89</MolNumber>
+  <StockCode>99BB42</StockCode>
+  <Comments><![CDATA[Reliable first car, fuel-efficient and mechanically sound.]]></Comments>
+  <Extras><![CDATA[Airbags, Fog Lights, Bluetooth, Alloy Wheels, Navigation System]]></Extras>
+  <DateInStock>01 Dec 2025</DateInStock>
+  <CostPrice>0</CostPrice>
+  <StandinPrice>0</StandinPrice>
+  <Registration>JVT 436 GP</Registration>
+  <Price>1378856</Price>
+  <WasPrice>0</WasPrice>
+  <MMCode>51520200</MMCode>
+  <Colour>Light Prairie Tan</Colour>
+  <Type>Motorcycles</Type>
+  <Year>2023</Year>
+  <Mileage>951036</Mileage>
+  <VIN>ADMESR49754FD496934</VIN>
+  <FullServiceHistory>Yes</FullServiceHistory>
+  <Transmission>Manual</Transmission>
+  <BodyShape>Sport</BodyShape>
+  <FuelType></FuelType>
+  <Department></Department>
+  <Rank>-1</Rank>
+  <UsedVehicleStockID>8759326</UsedVehicleStockID>
+  <SearchColour></SearchColour>
+  <Images>
+    <Image Id="8759326_1" ThumbUrl="https://image.blob.ix.co.za/Used/8759326/1/2023-LightPrairieTan-Puzey-KTR-KTR-MX-250-8759326-1-120x86.jpg" FullUrl="https://image.blob.ix.co.za/Used/8759326/1/2023-LightPrairieTan-Puzey-KTR-KTR-MX-250-8759326-1-640x462.jpg" LastModified="2025/12/01 10:46:34 AM" Priority="1" />
+    <Image Id="8759326_2" ThumbUrl="https://image.blob.ix.co.za/Used/8759326/2/2023-LightPrairieTan-Puzey-KTR-KTR-MX-250-8759326-2-120x90.jpg" FullUrl="https://image.blob.ix.co.za/Used/8759326/2/2023-LightPrairieTan-Puzey-KTR-KTR-MX-250-8759326-2-640x480.jpg" LastModified="2025/12/01 10:46:49 AM" Priority="2" />
+    <Image Id="8759326_3" ThumbUrl="https://image.blob.ix.co.za/Used/8759326/3/2023-LightPrairieTan-Puzey-KTR-KTR-MX-250-8759326-3-120x80.jpg" FullUrl="https://image.blob.ix.co.za/Used/8759326/3/2023-LightPrairieTan-Puzey-KTR-KTR-MX-250-8759326-3-640x427.jpg" LastModified="2025/12/01 10:46:50 AM" Priority="3" />
+    <Image Id="8759326_4" ThumbUrl="https://image.blob.ix.co.za/Used/8759326/4/2023-LightPrairieTan-Puzey-KTR-KTR-MX-250-8759326-4-120x75.jpg" FullUrl="https://image.blob.ix.co.za/Used/8759326/4/2023-LightPrairieTan-Puzey-KTR-KTR-MX-250-8759326-4-640x400.jpg" LastModified="2025/12/01 10:46:51 AM" Priority="4" />
+    <Image Id="8759326_5" ThumbUrl="https://image.blob.ix.co.za/Used/8759326/5/2023-LightPrairieTan-Puzey-KTR-KTR-MX-250-8759326-5-120x82.jpg" FullUrl="https://image.blob.ix.co.za/Used/8759326/5/2023-LightPrairieTan-Puzey-KTR-KTR-MX-250-8759326-5-640x441.jpg" LastModified="2025/12/01 10:46:51 AM" Priority="5" />
+  </Images>
+  <SpinCode></SpinCode>
+  <SpinVideoLink></SpinVideoLink>
+  <LoadDate>01 Dec 2025</LoadDate>
+  <IsPOA>No</IsPOA>
+  <IsProgram>No</IsProgram>
+  <ProgramName></ProgramName>
+</Vehicle>
+<Vehicle id="8759332">
+  <DealerName>_ix_Cameron Ganesh</DealerName>
+  <PowerFeed>no</PowerFeed>
+  <DealerCode>13273</DealerCode>
+  <GPS><![CDATA[-29.837100; 30.914660]]></GPS>
+  <Address><![CDATA[8 Church Place, Westville]]></Address>
+  <Region>KwaZulu-Natal</Region>
+  <City>Durban</City>
+  <DateOfDump>01 Dec 2025</DateOfDump>
+  <FriendlyName>Suzuki Motorcycles RF RF 600 RP</FriendlyName>
+  <ModelName>RF</ModelName>
+  <MakeName>Suzuki Motorcycles</MakeName>
+  <ModelID>1924</ModelID>
+  <MakeID>127</MakeID>
+  <MolNumber>89</MolNumber>
+  <StockCode>5C411C</StockCode>
+  <Comments><![CDATA[Starts instantly and runs quietly, with great overall comfort.]]></Comments>
+  <Extras><![CDATA[Roof Rails, Isofix, Climate Control, Alloy Wheels, Reverse Camera]]></Extras>
+  <DateInStock>01 Dec 2025</DateInStock>
+  <CostPrice>0</CostPrice>
+  <StandinPrice>0</StandinPrice>
+  <Registration>CDX 650 NC</Registration>
+  <Price>1353269</Price>
+  <WasPrice>0</WasPrice>
+  <MMCode>59068620</MMCode>
+  <Colour>Md Dk Pewter</Colour>
+  <Type>Motorcycles</Type>
+  <Year>2013</Year>
+  <Mileage>21306</Mileage>
+  <VIN>ADMMHH994455R736342</VIN>
+  <FullServiceHistory>No</FullServiceHistory>
+  <Transmission>Manual</Transmission>
+  <BodyShape>Sport / Superbike</BodyShape>
+  <FuelType></FuelType>
+  <Department></Department>
+  <Rank>-1</Rank>
+  <UsedVehicleStockID>8759332</UsedVehicleStockID>
+  <SearchColour></SearchColour>
+  <Images>
+    <Image Id="8759332_1" ThumbUrl="https://image.blob.ix.co.za/Used/8759332/1/2013-MdDkPewter-Suzuki-Motorcycles-RF-RF-600-RP-8759332-1-120x80.jpg" FullUrl="https://image.blob.ix.co.za/Used/8759332/1/2013-MdDkPewter-Suzuki-Motorcycles-RF-RF-600-RP-8759332-1-640x428.jpg" LastModified="2025/12/01 10:46:37 AM" Priority="1" />
+    <Image Id="8759332_2" ThumbUrl="https://image.blob.ix.co.za/Used/8759332/2/2013-MdDkPewter-Suzuki-Motorcycles-RF-RF-600-RP-8759332-2-120x90.jpg" FullUrl="https://image.blob.ix.co.za/Used/8759332/2/2013-MdDkPewter-Suzuki-Motorcycles-RF-RF-600-RP-8759332-2-640x480.jpg" LastModified="2025/12/01 10:46:49 AM" Priority="2" />
+    <Image Id="8759332_3" ThumbUrl="https://image.blob.ix.co.za/Used/8759332/3/2013-MdDkPewter-Suzuki-Motorcycles-RF-RF-600-RP-8759332-3-120x97.jpg" FullUrl="https://image.blob.ix.co.za/Used/8759332/3/2013-MdDkPewter-Suzuki-Motorcycles-RF-RF-600-RP-8759332-3-640x518.jpg" LastModified="2025/12/01 10:46:50 AM" Priority="3" />
+    <Image Id="8759332_4" ThumbUrl="https://image.blob.ix.co.za/Used/8759332/4/2013-MdDkPewter-Suzuki-Motorcycles-RF-RF-600-RP-8759332-4-120x80.jpg" FullUrl="https://image.blob.ix.co.za/Used/8759332/4/2013-MdDkPewter-Suzuki-Motorcycles-RF-RF-600-RP-8759332-4-640x431.jpg" LastModified="2025/12/01 10:46:51 AM" Priority="4" />
+    <Image Id="8759332_5" ThumbUrl="https://image.blob.ix.co.za/Used/8759332/5/2013-MdDkPewter-Suzuki-Motorcycles-RF-RF-600-RP-8759332-5-120x67.jpg" FullUrl="https://image.blob.ix.co.za/Used/8759332/5/2013-MdDkPewter-Suzuki-Motorcycles-RF-RF-600-RP-8759332-5-640x360.jpg" LastModified="2025/12/01 10:46:51 AM" Priority="5" />
+  </Images>
+  <SpinCode></SpinCode>
+  <SpinVideoLink></SpinVideoLink>
+  <LoadDate>01 Dec 2025</LoadDate>
+  <IsPOA>No</IsPOA>
+  <IsProgram>Yes</IsProgram>
+  <ProgramName></ProgramName>
+</Vehicle>
+<Vehicle id="8804326">
+  <DealerName>_ix_Cameron Ganesh</DealerName>
+  <PowerFeed>no</PowerFeed>
+  <DealerCode>13273</DealerCode>
+  <GPS><![CDATA[-29.837100; 30.914660]]></GPS>
+  <Address><![CDATA[8 Church Place, Westville]]></Address>
+  <Region>KwaZulu-Natal</Region>
+  <City>Durban</City>
+  <DateOfDump>01 Jan 1900</DateOfDump>
+  <FriendlyName>Volkswagen Golf 8.5 GTi 2.0 TSI DSG</FriendlyName>
+  <ModelName>Golf 8.5</ModelName>
+  <MakeName>Volkswagen</MakeName>
+  <ModelID>3535</ModelID>
+  <MakeID>1</MakeID>
+  <MolNumber>89</MolNumber>
+  <StockCode>WV016|DF|503663</StockCode>
+  <Comments><![CDATA[]]></Comments>
+  <Extras><![CDATA[]]></Extras>
+  <DateInStock>14 Jan 2026</DateInStock>
+  <CostPrice>0</CostPrice>
+  <StandinPrice>0</StandinPrice>
+  <Registration></Registration>
+  <Price>429950</Price>
+  <WasPrice>0</WasPrice>
+  <MMCode>64045934</MMCode>
+  <Colour>Green</Colour>
+  <Type>Cars</Type>
+  <Year>2026</Year>
+  <Mileage>13266</Mileage>
+  <VIN></VIN>
+  <FullServiceHistory>No</FullServiceHistory>
+  <Transmission>DSG</Transmission>
+  <BodyShape>Hatch</BodyShape>
+  <FuelType></FuelType>
+  <Department></Department>
+  <Rank>-1</Rank>
+  <UsedVehicleStockID>8804326</UsedVehicleStockID>
+  <SearchColour>green</SearchColour>
+  <Images />
+  <SpinCode></SpinCode>
+  <SpinVideoLink></SpinVideoLink>
+  <LoadDate>14 Jan 2026</LoadDate>
+  <IsPOA>No</IsPOA>
+  <IsProgram>No</IsProgram>
+  <ProgramName></ProgramName>
+</Vehicle>
+<Vehicle id="8759329">
+  <DealerName>_ix_Cameron Ganesh</DealerName>
+  <PowerFeed>no</PowerFeed>
+  <DealerCode>13273</DealerCode>
+  <GPS><![CDATA[-29.837100; 30.914660]]></GPS>
+  <Address><![CDATA[8 Church Place, Westville]]></Address>
+  <Region>KwaZulu-Natal</Region>
+  <City>Durban</City>
+  <DateOfDump>01 Dec 2025</DateOfDump>
+  <FriendlyName>Volvo S60 D3</FriendlyName>
+  <ModelName>S60</ModelName>
+  <MakeName>Volvo</MakeName>
+  <ModelID>509</ModelID>
+  <MakeID>30</MakeID>
+  <MolNumber>89</MolNumber>
+  <StockCode>2486CE</StockCode>
+  <Comments><![CDATA[Excellent handling and performance, great for long trips.]]></Comments>
+  <Extras><![CDATA[Sport Seats, Alloy Wheels, Bluetooth, Cruise Control]]></Extras>
+  <DateInStock>01 Dec 2025</DateInStock>
+  <CostPrice>0</CostPrice>
+  <StandinPrice>0</StandinPrice>
+  <Registration>BQP 814 MP</Registration>
+  <Price>353116</Price>
+  <WasPrice>0</WasPrice>
+  <MMCode>65045410</MMCode>
+  <Colour>Bright Platinum</Colour>
+  <Type>Cars</Type>
+  <Year>2015</Year>
+  <Mileage>220867</Mileage>
+  <VIN>AFSHHZ13141TE845424</VIN>
+  <FullServiceHistory>No</FullServiceHistory>
+  <Transmission>Manual</Transmission>
+  <BodyShape>Sedan</BodyShape>
+  <FuelType></FuelType>
+  <Department></Department>
+  <Rank>-1</Rank>
+  <UsedVehicleStockID>8759329</UsedVehicleStockID>
+  <SearchColour></SearchColour>
+  <Images>
+    <Image Id="8759329_1" ThumbUrl="https://image.blob.ix.co.za/Used/8759329/1/2015-BrightPlatinum-Volvo-S60-D3-8759329-1-120x78.jpg" FullUrl="https://image.blob.ix.co.za/Used/8759329/1/2015-BrightPlatinum-Volvo-S60-D3-8759329-1-640x421.jpg" LastModified="2025/12/01 10:46:36 AM" Priority="1" />
+    <Image Id="8759329_2" ThumbUrl="https://image.blob.ix.co.za/Used/8759329/2/2015-BrightPlatinum-Volvo-S60-D3-8759329-2-120x84.jpg" FullUrl="https://image.blob.ix.co.za/Used/8759329/2/2015-BrightPlatinum-Volvo-S60-D3-8759329-2-640x450.jpg" LastModified="2025/12/01 10:46:49 AM" Priority="2" />
+    <Image Id="8759329_3" ThumbUrl="https://image.blob.ix.co.za/Used/8759329/3/2015-BrightPlatinum-Volvo-S60-D3-8759329-3-120x90.jpg" FullUrl="https://image.blob.ix.co.za/Used/8759329/3/2015-BrightPlatinum-Volvo-S60-D3-8759329-3-640x480.jpg" LastModified="2025/12/01 10:46:50 AM" Priority="3" />
+    <Image Id="8759329_4" ThumbUrl="https://image.blob.ix.co.za/Used/8759329/4/2015-BrightPlatinum-Volvo-S60-D3-8759329-4-120x79.jpg" FullUrl="https://image.blob.ix.co.za/Used/8759329/4/2015-BrightPlatinum-Volvo-S60-D3-8759329-4-640x422.jpg" LastModified="2025/12/01 10:46:51 AM" Priority="4" />
+    <Image Id="8759329_5" ThumbUrl="https://image.blob.ix.co.za/Used/8759329/5/2015-BrightPlatinum-Volvo-S60-D3-8759329-5-120x67.jpg" FullUrl="https://image.blob.ix.co.za/Used/8759329/5/2015-BrightPlatinum-Volvo-S60-D3-8759329-5-640x360.jpg" LastModified="2025/12/01 10:46:51 AM" Priority="5" />
+  </Images>
+  <SpinCode></SpinCode>
+  <SpinVideoLink></SpinVideoLink>
+  <LoadDate>01 Dec 2025</LoadDate>
+  <IsPOA>No</IsPOA>
+  <IsProgram>No</IsProgram>
+  <ProgramName></ProgramName>
+</Vehicle>
+</UsedStock>
+<ProductCatalogue>
+</ProductCatalogue>
+</ROOT>
